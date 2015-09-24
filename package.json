@@ -1,0 +1,40 @@
+{
+  "name": "observ-path",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Observable interface to the browser path with history support",
+  "license": "MIT",
+  "repository": "bendrucker/observ-path",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "browser",
+    "path",
+    "location",
+    "history",
+    "observ",
+    "obserable"
+  ],
+  "devDependencies": {
+    "proxyquire": "~1.7.2",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "document-pathname": "~1.0.0",
+    "geval": "~2.1.1",
+    "global": "~4.3.0",
+    "observ": "~0.2.0",
+    "observ-bind": "~1.0.2",
+    "observ-history": "~1.0.0"
+  }
+}
