@@ -1,7 +1,7 @@
 {
   "name": "observ-path",
   "main": "index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Observable interface to the browser path with history support",
   "license": "MIT",
   "repository": "bendrucker/observ-path",
