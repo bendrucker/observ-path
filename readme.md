@@ -1,4 +1,4 @@
-# observ-path [![Build Status](https://travis-ci.org/bendrucker/observ-path.svg?branch=master)](https://travis-ci.org/bendrucker/observ-path)
+# observ-path [![Build Status](https://travis-ci.org/bendrucker/observ-path.svg?branch=master)](https://travis-ci.org/bendrucker/observ-path) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/observ-path.svg)](https://greenkeeper.io/)
 
 > Observable interface to the browser path with history support
 
