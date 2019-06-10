@@ -32,7 +32,7 @@
   "dependencies": {
     "document-pathname": "~2.0.0",
     "geval": "~2.2.0",
-    "global": "~4.3.0",
+    "global": "~4.4.0",
     "observ": "~0.2.0",
     "observ-bind": "~1.0.2",
     "observ-history": "~1.0.3"
